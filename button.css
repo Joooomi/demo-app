@@ -1,6 +1,6 @@
 .button {
   display: block;
-  background: #c068d6;
+  background: #77B4D2;
   position: absolute;
   width: 20rem;
   padding: 1rem;
@@ -11,7 +11,7 @@
   text-align: center;
   text-decoration: none;
   letter-spacing: .1rem;
-  box-shadow: 0px 10px 0px 0px #9143a5;
+  box-shadow: 0px 10px 0px 0px #4F8EAE;
   transition: .1s;
 }
 
